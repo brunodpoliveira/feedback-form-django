@@ -1,4 +1,4 @@
-set secret key on feedback/seeting.py
+set secret key on feedback/settings.py
 
 run terminal, type: 
 
