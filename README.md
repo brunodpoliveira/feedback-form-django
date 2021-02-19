@@ -1,3 +1,5 @@
+set secret key on feedback/seeting.py
+
 run terminal, type: 
 
 python manage.py runserver
